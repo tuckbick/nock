@@ -189,7 +189,7 @@
     "markdown-toc": "^1.2.0",
     "needle": "^2.2.0",
     "nyc": "^11.4.1",
-    "request": "^2.83.0",
+    "request": "^2.84.0",
     "request-promise": "^4.2.2",
     "restify-clients": "^2.0.0",
     "rimraf": "^2.6.2",
