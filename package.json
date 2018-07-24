@@ -179,7 +179,7 @@
   },
   "devDependencies": {
     "async": "^2.6.0",
-    "aws-sdk": "^2.202.0",
+    "aws-sdk": "^2.280.1",
     "coveralls": "^3.0.0",
     "eslint": "^5.0.0",
     "hyperquest": "^2.1.3",
